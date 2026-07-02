@@ -1,0 +1,79 @@
+[CSMModule.UI]
+VIName = "Test.vi"
+
+[CSMVI.Test.vi]
+Path = "<AppDir>/Test.vi"
+
+[CSMStates.Test.vi]
+Item 0 = "Event Structure"
+Item 1 = "Idle"
+Item 2 = "CSM Documentation"
+Item 3 = "VI Reference"
+Item 4 = "Error Handler"
+Item 5 = "Critical Error"
+Item 6 = "Target Timeout Error"
+Item 7 = "Target Error"
+Item 8 = "Async Response"
+Item 9 = "Response"
+Item 10 = "Async Message Posted"
+Item 11 = "Initialize Core Data"
+Item 12 = "Exit"
+Item 13 = "Data: Initialize"
+Item 14 = "Data: Cleanup"
+Item 15 = "Events: Register"
+Item 16 = "Events: Unregister"
+Item 17 = "UI: Initialize"
+Item 18 = "UI: Save Layout"
+Item 19 = "UI: Load Layout"
+Item 20 = "UI: Cursor Set"
+Item 21 = "UI: Front Panel State"
+Item 22 = "Macro: Initialize"
+Item 23 = "Macro: Exit"
+Item 24 = "API: Update Insertable VI"
+Item 25 = "API: Hello"
+Item 26 = "API: Insert To Subpanel"
+Item 27 = "Action: action1"
+Item 28 = "Action: action2"
+
+[CSMStatus.Test.vi]
+Item 0 = "Error Occurred@Error Handler"
+
+[CSMModule.Chart]
+VIName = "Chart.vi"
+
+[CSMVI.Chart.vi]
+Path = "<AppDir>/ViewList/Chart.vi"
+
+[CSMStates.Chart.vi]
+Item 0 = "Event Structure"
+Item 1 = "Idle"
+Item 2 = "CSM Documentation"
+Item 3 = "VI Reference"
+Item 4 = "Error Handler"
+Item 5 = "Critical Error"
+Item 6 = "Target Timeout Error"
+Item 7 = "Target Error"
+Item 8 = "Async Response"
+Item 9 = "Response"
+Item 10 = "Async Message Posted"
+Item 11 = "Initialize Core Data"
+Item 12 = "Exit"
+Item 13 = "Data: Initialize"
+Item 14 = "Data: Cleanup"
+Item 15 = "Events: Register"
+Item 16 = "Events: Unregister"
+Item 17 = "UI: Initialize"
+Item 18 = "UI: Cursor Set"
+Item 19 = "UI: Front Panel State"
+Item 20 = "Macro: Initialize"
+Item 21 = "Macro: Exit"
+Item 22 = "API: API1"
+Item 23 = "API: API2"
+Item 24 = "Action: action1"
+Item 25 = "Action: action2"
+
+[CSMStatus.Chart.vi]
+Item 0 = "Error Occurred@Error Handler"
+
+[DebugConsole.historyView]
+History Length = 50    
