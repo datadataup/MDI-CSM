@@ -6,9 +6,9 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Typedef" Type="Folder">
-		<Item Name="Update ViewList.ctl" Type="VI" URL="../Typedef/Update ViewList.ctl"/>
+		<Item Name="Update View.ctl" Type="VI" URL="../Typedef/Update View.ctl"/>
 		<Item Name="View.ctl" Type="VI" URL="../Typedef/View.ctl"/>
-		<Item Name="LayoutMap.ctl" Type="VI" URL="../Typedef/LayoutMap.ctl"/>
+		<Item Name="Layout.ctl" Type="VI" URL="../Typedef/Layout.ctl"/>
 	</Item>
 	<Item Name="Sub" Type="Folder">
 		<Item Name="Insert VI.vi" Type="VI" URL="../Sub/Insert VI.vi"/>
