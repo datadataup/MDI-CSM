@@ -8,16 +8,20 @@
 	<Item Name="Typedef" Type="Folder">
 		<Item Name="Update ViewList.ctl" Type="VI" URL="../Typedef/Update ViewList.ctl"/>
 		<Item Name="View.ctl" Type="VI" URL="../Typedef/View.ctl"/>
+		<Item Name="LayoutMap.ctl" Type="VI" URL="../Typedef/LayoutMap.ctl"/>
 	</Item>
 	<Item Name="Sub" Type="Folder">
 		<Item Name="Insert VI.vi" Type="VI" URL="../Sub/Insert VI.vi"/>
 		<Item Name="Layout FGV.vi" Type="VI" URL="../Sub/Layout FGV.vi"/>
-		<Item Name="Set Size.vi" Type="VI" URL="../Sub/Set Size.vi"/>
 		<Item Name="Size Select.vi" Type="VI" URL="../Sub/Size Select.vi"/>
 		<Item Name="TabRef Get SubPanel.vi" Type="VI" URL="../Sub/TabRef Get SubPanel.vi"/>
 		<Item Name="View Insert VI.vi" Type="VI" URL="../Sub/View Insert VI.vi"/>
+		<Item Name="Clean Layout.vi" Type="VI" URL="../Sub/Clean Layout.vi"/>
+		<Item Name="Load Layout By Name.vi" Type="VI" URL="../Sub/Load Layout By Name.vi"/>
 		<Item Name="Save Layout.vi" Type="VI" URL="../Sub/Save Layout.vi"/>
 		<Item Name="Load Layout.vi" Type="VI" URL="../Sub/Load Layout.vi"/>
+		<Item Name="Set View Position.vi" Type="VI" URL="../Sub/Set View Position.vi"/>
+		<Item Name="Set View Size.vi" Type="VI" URL="../Sub/Set View Size.vi"/>
 	</Item>
 	<Item Name="CSM MDI.vi" Type="VI" URL="../CSM MDI.vi"/>
 </Library>
